@@ -1,1 +1,1 @@
-This is a text file for lab 2. If you are reading this, it means I am already dead.
+This is a testing file for lab 2. If you are reading this, it means I am already dead.
